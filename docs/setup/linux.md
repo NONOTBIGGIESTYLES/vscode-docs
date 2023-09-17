@@ -7,6 +7,7 @@ PageTitle: Running Visual Studio Code on Linux
 DateApproved: 9/7/2023
 MetaDescription: Get Visual Studio Code up and running on Linux.
 ---
+
 # Visual Studio Code on Linux
 
 ## Installation
